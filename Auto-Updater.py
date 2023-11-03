@@ -1,7 +1,7 @@
 import os, zipfile, requests, shutil, io, json
 
-GITHUB_REPO_OWNER = "AlexPT2k22"
-GITHUB_REPO_NAME = "TestRepo"
+GITHUB_REPO_OWNER = "YOUR_GITHUB_USERNAME"
+GITHUB_REPO_NAME = "YOUR_GITHUB_REPOSITORY_NAME"
 GITHUB_API_URL = f'https://api.github.com/repos/{GITHUB_REPO_OWNER}/{GITHUB_REPO_NAME}'
 
 def get_latest_version():
