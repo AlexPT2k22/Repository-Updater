@@ -21,6 +21,7 @@ This is a simple repository updater script for managing updates to your project.
 - Automatically checks for the latest release on GitHub.
 - Downloads and updates your project files to the latest version.
 - Supports both source code and zip archive releases.
+- Easy to use.
 
 ## Supported Languages:
 
