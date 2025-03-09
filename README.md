@@ -25,7 +25,7 @@ This is a simple repository updater script for managing updates to your project.
 
 ## Supported Languages:
 
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/), more coming soon! (if you feel so, you can open an issue with the code of the language you want to see here!)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 
 ## Getting Started
 
